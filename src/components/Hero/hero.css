@@ -1,0 +1,30 @@
+.app__hero {
+  
+    width: auto;
+    height: 160px;
+    left: 0;
+    right: 0;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  
+    font-family: "Hepta Slab";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+  
+    color: #ffffff;
+    background-color: #456f87;
+  }
+
+.thepic {
+  position: absolute;
+  width: auto;
+  height: 590px;
+  left: 4px;
+  top: 453px;
+
+  background: url(C:\Users\Istofar\Desktop\komulelanta\src\assets\bhand.jpg);
+}
